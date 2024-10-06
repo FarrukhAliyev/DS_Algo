@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode108.ArrayToBinaryTree\LeetCode108.ArrayToBinaryTree\bin\Debug\net7.0\LeetCode108.ArrayToBinaryTree.exe
+C:\C#\LeetCode\LeetCode108.ArrayToBinaryTree\LeetCode108.ArrayToBinaryTree\bin\Debug\net7.0\LeetCode108.ArrayToBinaryTree.deps.json
+C:\C#\LeetCode\LeetCode108.ArrayToBinaryTree\LeetCode108.ArrayToBinaryTree\bin\Debug\net7.0\LeetCode108.ArrayToBinaryTree.runtimeconfig.json
+C:\C#\LeetCode\LeetCode108.ArrayToBinaryTree\LeetCode108.ArrayToBinaryTree\bin\Debug\net7.0\LeetCode108.ArrayToBinaryTree.dll
+C:\C#\LeetCode\LeetCode108.ArrayToBinaryTree\LeetCode108.ArrayToBinaryTree\bin\Debug\net7.0\LeetCode108.ArrayToBinaryTree.pdb
+C:\C#\LeetCode\LeetCode108.ArrayToBinaryTree\LeetCode108.ArrayToBinaryTree\obj\Debug\net7.0\LeetCode108.ArrayToBinaryTree.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode108.ArrayToBinaryTree\LeetCode108.ArrayToBinaryTree\obj\Debug\net7.0\LeetCode108.ArrayToBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode108.ArrayToBinaryTree\LeetCode108.ArrayToBinaryTree\obj\Debug\net7.0\LeetCode108.ArrayToBinaryTree.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode108.ArrayToBinaryTree\LeetCode108.ArrayToBinaryTree\obj\Debug\net7.0\LeetCode108.ArrayToBinaryTree.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode108.ArrayToBinaryTree\LeetCode108.ArrayToBinaryTree\obj\Debug\net7.0\LeetCode108.ArrayToBinaryTree.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode108.ArrayToBinaryTree\LeetCode108.ArrayToBinaryTree\obj\Debug\net7.0\LeetCode108.ArrayToBinaryTree.dll
+C:\C#\LeetCode\LeetCode108.ArrayToBinaryTree\LeetCode108.ArrayToBinaryTree\obj\Debug\net7.0\refint\LeetCode108.ArrayToBinaryTree.dll
+C:\C#\LeetCode\LeetCode108.ArrayToBinaryTree\LeetCode108.ArrayToBinaryTree\obj\Debug\net7.0\LeetCode108.ArrayToBinaryTree.pdb
+C:\C#\LeetCode\LeetCode108.ArrayToBinaryTree\LeetCode108.ArrayToBinaryTree\obj\Debug\net7.0\LeetCode108.ArrayToBinaryTree.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode108.ArrayToBinaryTree\LeetCode108.ArrayToBinaryTree\obj\Debug\net7.0\ref\LeetCode108.ArrayToBinaryTree.dll

@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode121.BuySellStock\LeetCode121.BuySellStock\obj\Debug\net7.0\LeetCode121.BuySellStock.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode121.BuySellStock\LeetCode121.BuySellStock\obj\Debug\net7.0\LeetCode121.BuySellStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode121.BuySellStock\LeetCode121.BuySellStock\obj\Debug\net7.0\LeetCode121.BuySellStock.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode121.BuySellStock\LeetCode121.BuySellStock\obj\Debug\net7.0\LeetCode121.BuySellStock.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode121.BuySellStock\LeetCode121.BuySellStock\obj\Debug\net7.0\LeetCode121.BuySellStock.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode121.BuySellStock\LeetCode121.BuySellStock\bin\Debug\net7.0\LeetCode121.BuySellStock.exe
+C:\C#\LeetCode\LeetCode121.BuySellStock\LeetCode121.BuySellStock\bin\Debug\net7.0\LeetCode121.BuySellStock.deps.json
+C:\C#\LeetCode\LeetCode121.BuySellStock\LeetCode121.BuySellStock\bin\Debug\net7.0\LeetCode121.BuySellStock.runtimeconfig.json
+C:\C#\LeetCode\LeetCode121.BuySellStock\LeetCode121.BuySellStock\bin\Debug\net7.0\LeetCode121.BuySellStock.dll
+C:\C#\LeetCode\LeetCode121.BuySellStock\LeetCode121.BuySellStock\bin\Debug\net7.0\LeetCode121.BuySellStock.pdb
+C:\C#\LeetCode\LeetCode121.BuySellStock\LeetCode121.BuySellStock\obj\Debug\net7.0\LeetCode121.BuySellStock.dll
+C:\C#\LeetCode\LeetCode121.BuySellStock\LeetCode121.BuySellStock\obj\Debug\net7.0\refint\LeetCode121.BuySellStock.dll
+C:\C#\LeetCode\LeetCode121.BuySellStock\LeetCode121.BuySellStock\obj\Debug\net7.0\LeetCode121.BuySellStock.pdb
+C:\C#\LeetCode\LeetCode121.BuySellStock\LeetCode121.BuySellStock\obj\Debug\net7.0\LeetCode121.BuySellStock.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode121.BuySellStock\LeetCode121.BuySellStock\obj\Debug\net7.0\ref\LeetCode121.BuySellStock.dll

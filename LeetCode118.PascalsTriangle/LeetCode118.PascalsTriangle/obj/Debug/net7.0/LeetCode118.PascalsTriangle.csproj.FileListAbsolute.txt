@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode118.PascalsTriangle\LeetCode118.PascalsTriangle\bin\Debug\net7.0\LeetCode118.PascalsTriangle.exe
+C:\C#\LeetCode\LeetCode118.PascalsTriangle\LeetCode118.PascalsTriangle\bin\Debug\net7.0\LeetCode118.PascalsTriangle.deps.json
+C:\C#\LeetCode\LeetCode118.PascalsTriangle\LeetCode118.PascalsTriangle\bin\Debug\net7.0\LeetCode118.PascalsTriangle.runtimeconfig.json
+C:\C#\LeetCode\LeetCode118.PascalsTriangle\LeetCode118.PascalsTriangle\bin\Debug\net7.0\LeetCode118.PascalsTriangle.dll
+C:\C#\LeetCode\LeetCode118.PascalsTriangle\LeetCode118.PascalsTriangle\bin\Debug\net7.0\LeetCode118.PascalsTriangle.pdb
+C:\C#\LeetCode\LeetCode118.PascalsTriangle\LeetCode118.PascalsTriangle\obj\Debug\net7.0\LeetCode118.PascalsTriangle.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode118.PascalsTriangle\LeetCode118.PascalsTriangle\obj\Debug\net7.0\LeetCode118.PascalsTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode118.PascalsTriangle\LeetCode118.PascalsTriangle\obj\Debug\net7.0\LeetCode118.PascalsTriangle.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode118.PascalsTriangle\LeetCode118.PascalsTriangle\obj\Debug\net7.0\LeetCode118.PascalsTriangle.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode118.PascalsTriangle\LeetCode118.PascalsTriangle\obj\Debug\net7.0\LeetCode118.PascalsTriangle.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode118.PascalsTriangle\LeetCode118.PascalsTriangle\obj\Debug\net7.0\LeetCode118.PascalsTriangle.dll
+C:\C#\LeetCode\LeetCode118.PascalsTriangle\LeetCode118.PascalsTriangle\obj\Debug\net7.0\refint\LeetCode118.PascalsTriangle.dll
+C:\C#\LeetCode\LeetCode118.PascalsTriangle\LeetCode118.PascalsTriangle\obj\Debug\net7.0\LeetCode118.PascalsTriangle.pdb
+C:\C#\LeetCode\LeetCode118.PascalsTriangle\LeetCode118.PascalsTriangle\obj\Debug\net7.0\LeetCode118.PascalsTriangle.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode118.PascalsTriangle\LeetCode118.PascalsTriangle\obj\Debug\net7.0\ref\LeetCode118.PascalsTriangle.dll

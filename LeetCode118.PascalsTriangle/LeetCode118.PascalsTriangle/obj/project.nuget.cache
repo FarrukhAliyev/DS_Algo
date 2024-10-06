@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "h/CQxSxVTUeEW2WA8yQt+fDzBKIRD+A6mdLwf6xiUK1yXdWnc6ym7+eGyKb2KMnZ7oUT3TA4agA8rITR6BKD2A==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\LeetCode\\LeetCode118.PascalsTriangle\\LeetCode118.PascalsTriangle\\LeetCode118.PascalsTriangle.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://company-squid:3128'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

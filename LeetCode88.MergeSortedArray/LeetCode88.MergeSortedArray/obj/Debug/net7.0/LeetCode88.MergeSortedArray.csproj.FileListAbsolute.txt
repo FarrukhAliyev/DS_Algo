@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode88.MergeSortedArray\LeetCode88.MergeSortedArray\bin\Debug\net7.0\LeetCode88.MergeSortedArray.exe
+C:\C#\LeetCode\LeetCode88.MergeSortedArray\LeetCode88.MergeSortedArray\bin\Debug\net7.0\LeetCode88.MergeSortedArray.deps.json
+C:\C#\LeetCode\LeetCode88.MergeSortedArray\LeetCode88.MergeSortedArray\bin\Debug\net7.0\LeetCode88.MergeSortedArray.runtimeconfig.json
+C:\C#\LeetCode\LeetCode88.MergeSortedArray\LeetCode88.MergeSortedArray\bin\Debug\net7.0\LeetCode88.MergeSortedArray.dll
+C:\C#\LeetCode\LeetCode88.MergeSortedArray\LeetCode88.MergeSortedArray\bin\Debug\net7.0\LeetCode88.MergeSortedArray.pdb
+C:\C#\LeetCode\LeetCode88.MergeSortedArray\LeetCode88.MergeSortedArray\obj\Debug\net7.0\LeetCode88.MergeSortedArray.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode88.MergeSortedArray\LeetCode88.MergeSortedArray\obj\Debug\net7.0\LeetCode88.MergeSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode88.MergeSortedArray\LeetCode88.MergeSortedArray\obj\Debug\net7.0\LeetCode88.MergeSortedArray.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode88.MergeSortedArray\LeetCode88.MergeSortedArray\obj\Debug\net7.0\LeetCode88.MergeSortedArray.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode88.MergeSortedArray\LeetCode88.MergeSortedArray\obj\Debug\net7.0\LeetCode88.MergeSortedArray.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode88.MergeSortedArray\LeetCode88.MergeSortedArray\obj\Debug\net7.0\LeetCode88.MergeSortedArray.dll
+C:\C#\LeetCode\LeetCode88.MergeSortedArray\LeetCode88.MergeSortedArray\obj\Debug\net7.0\refint\LeetCode88.MergeSortedArray.dll
+C:\C#\LeetCode\LeetCode88.MergeSortedArray\LeetCode88.MergeSortedArray\obj\Debug\net7.0\LeetCode88.MergeSortedArray.pdb
+C:\C#\LeetCode\LeetCode88.MergeSortedArray\LeetCode88.MergeSortedArray\obj\Debug\net7.0\LeetCode88.MergeSortedArray.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode88.MergeSortedArray\LeetCode88.MergeSortedArray\obj\Debug\net7.0\ref\LeetCode88.MergeSortedArray.dll
