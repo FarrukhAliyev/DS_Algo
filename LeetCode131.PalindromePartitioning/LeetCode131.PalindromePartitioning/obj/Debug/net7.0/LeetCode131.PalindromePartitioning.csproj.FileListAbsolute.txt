@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode131.PalindromePartitioning\LeetCode131.PalindromePartitioning\bin\Debug\net7.0\LeetCode131.PalindromePartitioning.exe
+C:\C#\LeetCode\LeetCode131.PalindromePartitioning\LeetCode131.PalindromePartitioning\bin\Debug\net7.0\LeetCode131.PalindromePartitioning.deps.json
+C:\C#\LeetCode\LeetCode131.PalindromePartitioning\LeetCode131.PalindromePartitioning\bin\Debug\net7.0\LeetCode131.PalindromePartitioning.runtimeconfig.json
+C:\C#\LeetCode\LeetCode131.PalindromePartitioning\LeetCode131.PalindromePartitioning\bin\Debug\net7.0\LeetCode131.PalindromePartitioning.dll
+C:\C#\LeetCode\LeetCode131.PalindromePartitioning\LeetCode131.PalindromePartitioning\bin\Debug\net7.0\LeetCode131.PalindromePartitioning.pdb
+C:\C#\LeetCode\LeetCode131.PalindromePartitioning\LeetCode131.PalindromePartitioning\obj\Debug\net7.0\LeetCode131.PalindromePartitioning.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode131.PalindromePartitioning\LeetCode131.PalindromePartitioning\obj\Debug\net7.0\LeetCode131.PalindromePartitioning.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode131.PalindromePartitioning\LeetCode131.PalindromePartitioning\obj\Debug\net7.0\LeetCode131.PalindromePartitioning.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode131.PalindromePartitioning\LeetCode131.PalindromePartitioning\obj\Debug\net7.0\LeetCode131.PalindromePartitioning.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode131.PalindromePartitioning\LeetCode131.PalindromePartitioning\obj\Debug\net7.0\LeetCode131.PalindromePartitioning.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode131.PalindromePartitioning\LeetCode131.PalindromePartitioning\obj\Debug\net7.0\LeetCode131.PalindromePartitioning.dll
+C:\C#\LeetCode\LeetCode131.PalindromePartitioning\LeetCode131.PalindromePartitioning\obj\Debug\net7.0\refint\LeetCode131.PalindromePartitioning.dll
+C:\C#\LeetCode\LeetCode131.PalindromePartitioning\LeetCode131.PalindromePartitioning\obj\Debug\net7.0\LeetCode131.PalindromePartitioning.pdb
+C:\C#\LeetCode\LeetCode131.PalindromePartitioning\LeetCode131.PalindromePartitioning\obj\Debug\net7.0\LeetCode131.PalindromePartitioning.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode131.PalindromePartitioning\LeetCode131.PalindromePartitioning\obj\Debug\net7.0\ref\LeetCode131.PalindromePartitioning.dll

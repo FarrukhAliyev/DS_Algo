@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode136.SingleNumber\LeetCode136.SingleNumber\bin\Debug\net7.0\LeetCode136.SingleNumber.exe
+C:\C#\LeetCode\LeetCode136.SingleNumber\LeetCode136.SingleNumber\bin\Debug\net7.0\LeetCode136.SingleNumber.deps.json
+C:\C#\LeetCode\LeetCode136.SingleNumber\LeetCode136.SingleNumber\bin\Debug\net7.0\LeetCode136.SingleNumber.runtimeconfig.json
+C:\C#\LeetCode\LeetCode136.SingleNumber\LeetCode136.SingleNumber\bin\Debug\net7.0\LeetCode136.SingleNumber.dll
+C:\C#\LeetCode\LeetCode136.SingleNumber\LeetCode136.SingleNumber\bin\Debug\net7.0\LeetCode136.SingleNumber.pdb
+C:\C#\LeetCode\LeetCode136.SingleNumber\LeetCode136.SingleNumber\obj\Debug\net7.0\LeetCode136.SingleNumber.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode136.SingleNumber\LeetCode136.SingleNumber\obj\Debug\net7.0\LeetCode136.SingleNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode136.SingleNumber\LeetCode136.SingleNumber\obj\Debug\net7.0\LeetCode136.SingleNumber.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode136.SingleNumber\LeetCode136.SingleNumber\obj\Debug\net7.0\LeetCode136.SingleNumber.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode136.SingleNumber\LeetCode136.SingleNumber\obj\Debug\net7.0\LeetCode136.SingleNumber.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode136.SingleNumber\LeetCode136.SingleNumber\obj\Debug\net7.0\LeetCode136.SingleNumber.dll
+C:\C#\LeetCode\LeetCode136.SingleNumber\LeetCode136.SingleNumber\obj\Debug\net7.0\refint\LeetCode136.SingleNumber.dll
+C:\C#\LeetCode\LeetCode136.SingleNumber\LeetCode136.SingleNumber\obj\Debug\net7.0\LeetCode136.SingleNumber.pdb
+C:\C#\LeetCode\LeetCode136.SingleNumber\LeetCode136.SingleNumber\obj\Debug\net7.0\LeetCode136.SingleNumber.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode136.SingleNumber\LeetCode136.SingleNumber\obj\Debug\net7.0\ref\LeetCode136.SingleNumber.dll

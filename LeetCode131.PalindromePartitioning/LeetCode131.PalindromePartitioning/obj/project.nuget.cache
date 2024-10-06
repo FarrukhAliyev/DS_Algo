@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4VXFsLR221rUYs+PZBGVCoarksb7Jh3uVG8uX+mfoyG7mbvEIzUn6GeIkwW3mmdjYrYopp0FlrQrqZs4E9eS8g==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\LeetCode\\LeetCode131.PalindromePartitioning\\LeetCode131.PalindromePartitioning\\LeetCode131.PalindromePartitioning.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://company-squid:3128'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

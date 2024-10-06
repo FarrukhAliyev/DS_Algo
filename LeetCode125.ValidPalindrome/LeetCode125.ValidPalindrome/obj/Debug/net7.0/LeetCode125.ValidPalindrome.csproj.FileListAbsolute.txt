@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode125.ValidPalindrome\LeetCode125.ValidPalindrome\bin\Debug\net7.0\LeetCode125.ValidPalindrome.exe
+C:\C#\LeetCode\LeetCode125.ValidPalindrome\LeetCode125.ValidPalindrome\bin\Debug\net7.0\LeetCode125.ValidPalindrome.deps.json
+C:\C#\LeetCode\LeetCode125.ValidPalindrome\LeetCode125.ValidPalindrome\bin\Debug\net7.0\LeetCode125.ValidPalindrome.runtimeconfig.json
+C:\C#\LeetCode\LeetCode125.ValidPalindrome\LeetCode125.ValidPalindrome\bin\Debug\net7.0\LeetCode125.ValidPalindrome.dll
+C:\C#\LeetCode\LeetCode125.ValidPalindrome\LeetCode125.ValidPalindrome\bin\Debug\net7.0\LeetCode125.ValidPalindrome.pdb
+C:\C#\LeetCode\LeetCode125.ValidPalindrome\LeetCode125.ValidPalindrome\obj\Debug\net7.0\LeetCode125.ValidPalindrome.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode125.ValidPalindrome\LeetCode125.ValidPalindrome\obj\Debug\net7.0\LeetCode125.ValidPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode125.ValidPalindrome\LeetCode125.ValidPalindrome\obj\Debug\net7.0\LeetCode125.ValidPalindrome.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode125.ValidPalindrome\LeetCode125.ValidPalindrome\obj\Debug\net7.0\LeetCode125.ValidPalindrome.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode125.ValidPalindrome\LeetCode125.ValidPalindrome\obj\Debug\net7.0\LeetCode125.ValidPalindrome.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode125.ValidPalindrome\LeetCode125.ValidPalindrome\obj\Debug\net7.0\LeetCode125.ValidPalindrome.dll
+C:\C#\LeetCode\LeetCode125.ValidPalindrome\LeetCode125.ValidPalindrome\obj\Debug\net7.0\refint\LeetCode125.ValidPalindrome.dll
+C:\C#\LeetCode\LeetCode125.ValidPalindrome\LeetCode125.ValidPalindrome\obj\Debug\net7.0\LeetCode125.ValidPalindrome.pdb
+C:\C#\LeetCode\LeetCode125.ValidPalindrome\LeetCode125.ValidPalindrome\obj\Debug\net7.0\LeetCode125.ValidPalindrome.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode125.ValidPalindrome\LeetCode125.ValidPalindrome\obj\Debug\net7.0\ref\LeetCode125.ValidPalindrome.dll
