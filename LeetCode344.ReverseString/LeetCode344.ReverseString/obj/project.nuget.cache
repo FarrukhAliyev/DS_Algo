@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6LcjL6tUSfAbOJr3ihpYSzFJ/i3/+faQCd0qbdycD4kabClrQNiyhKArhrJwqh3/bQOtxgLlNNjvb9awoYv9MQ==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\LeetCode\\LeetCode344.ReverseString\\LeetCode344.ReverseString\\LeetCode344.ReverseString.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://company-squid:3128'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

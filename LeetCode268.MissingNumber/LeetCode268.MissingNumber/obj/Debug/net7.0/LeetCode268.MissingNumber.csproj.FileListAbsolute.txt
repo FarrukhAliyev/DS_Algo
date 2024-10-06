@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode268.MissingNumber\LeetCode268.MissingNumber\bin\Debug\net7.0\LeetCode268.MissingNumber.exe
+C:\C#\LeetCode\LeetCode268.MissingNumber\LeetCode268.MissingNumber\bin\Debug\net7.0\LeetCode268.MissingNumber.deps.json
+C:\C#\LeetCode\LeetCode268.MissingNumber\LeetCode268.MissingNumber\bin\Debug\net7.0\LeetCode268.MissingNumber.runtimeconfig.json
+C:\C#\LeetCode\LeetCode268.MissingNumber\LeetCode268.MissingNumber\bin\Debug\net7.0\LeetCode268.MissingNumber.dll
+C:\C#\LeetCode\LeetCode268.MissingNumber\LeetCode268.MissingNumber\bin\Debug\net7.0\LeetCode268.MissingNumber.pdb
+C:\C#\LeetCode\LeetCode268.MissingNumber\LeetCode268.MissingNumber\obj\Debug\net7.0\LeetCode268.MissingNumber.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode268.MissingNumber\LeetCode268.MissingNumber\obj\Debug\net7.0\LeetCode268.MissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode268.MissingNumber\LeetCode268.MissingNumber\obj\Debug\net7.0\LeetCode268.MissingNumber.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode268.MissingNumber\LeetCode268.MissingNumber\obj\Debug\net7.0\LeetCode268.MissingNumber.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode268.MissingNumber\LeetCode268.MissingNumber\obj\Debug\net7.0\LeetCode268.MissingNumber.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode268.MissingNumber\LeetCode268.MissingNumber\obj\Debug\net7.0\LeetCode268.MissingNumber.dll
+C:\C#\LeetCode\LeetCode268.MissingNumber\LeetCode268.MissingNumber\obj\Debug\net7.0\refint\LeetCode268.MissingNumber.dll
+C:\C#\LeetCode\LeetCode268.MissingNumber\LeetCode268.MissingNumber\obj\Debug\net7.0\LeetCode268.MissingNumber.pdb
+C:\C#\LeetCode\LeetCode268.MissingNumber\LeetCode268.MissingNumber\obj\Debug\net7.0\LeetCode268.MissingNumber.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode268.MissingNumber\LeetCode268.MissingNumber\obj\Debug\net7.0\ref\LeetCode268.MissingNumber.dll

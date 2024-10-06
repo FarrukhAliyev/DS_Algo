@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LeetCode283.MoveZeroes/1.0.0": {
+        "runtime": {
+          "LeetCode283.MoveZeroes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetCode283.MoveZeroes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

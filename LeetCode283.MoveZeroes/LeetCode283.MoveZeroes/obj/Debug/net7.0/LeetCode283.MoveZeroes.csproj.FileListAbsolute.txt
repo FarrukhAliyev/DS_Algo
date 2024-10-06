@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode283.MoveZeroes\LeetCode283.MoveZeroes\bin\Debug\net7.0\LeetCode283.MoveZeroes.exe
+C:\C#\LeetCode\LeetCode283.MoveZeroes\LeetCode283.MoveZeroes\bin\Debug\net7.0\LeetCode283.MoveZeroes.deps.json
+C:\C#\LeetCode\LeetCode283.MoveZeroes\LeetCode283.MoveZeroes\bin\Debug\net7.0\LeetCode283.MoveZeroes.runtimeconfig.json
+C:\C#\LeetCode\LeetCode283.MoveZeroes\LeetCode283.MoveZeroes\bin\Debug\net7.0\LeetCode283.MoveZeroes.dll
+C:\C#\LeetCode\LeetCode283.MoveZeroes\LeetCode283.MoveZeroes\bin\Debug\net7.0\LeetCode283.MoveZeroes.pdb
+C:\C#\LeetCode\LeetCode283.MoveZeroes\LeetCode283.MoveZeroes\obj\Debug\net7.0\LeetCode283.MoveZeroes.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode283.MoveZeroes\LeetCode283.MoveZeroes\obj\Debug\net7.0\LeetCode283.MoveZeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode283.MoveZeroes\LeetCode283.MoveZeroes\obj\Debug\net7.0\LeetCode283.MoveZeroes.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode283.MoveZeroes\LeetCode283.MoveZeroes\obj\Debug\net7.0\LeetCode283.MoveZeroes.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode283.MoveZeroes\LeetCode283.MoveZeroes\obj\Debug\net7.0\LeetCode283.MoveZeroes.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode283.MoveZeroes\LeetCode283.MoveZeroes\obj\Debug\net7.0\LeetCode283.MoveZeroes.dll
+C:\C#\LeetCode\LeetCode283.MoveZeroes\LeetCode283.MoveZeroes\obj\Debug\net7.0\refint\LeetCode283.MoveZeroes.dll
+C:\C#\LeetCode\LeetCode283.MoveZeroes\LeetCode283.MoveZeroes\obj\Debug\net7.0\LeetCode283.MoveZeroes.pdb
+C:\C#\LeetCode\LeetCode283.MoveZeroes\LeetCode283.MoveZeroes\obj\Debug\net7.0\LeetCode283.MoveZeroes.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode283.MoveZeroes\LeetCode283.MoveZeroes\obj\Debug\net7.0\ref\LeetCode283.MoveZeroes.dll
