@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode1370.IncreasingDecreasingString\LeetCode1370.IncreasingDecreasingString\bin\Debug\net7.0\LeetCode1370.IncreasingDecreasingString.exe
+C:\C#\LeetCode\LeetCode1370.IncreasingDecreasingString\LeetCode1370.IncreasingDecreasingString\bin\Debug\net7.0\LeetCode1370.IncreasingDecreasingString.deps.json
+C:\C#\LeetCode\LeetCode1370.IncreasingDecreasingString\LeetCode1370.IncreasingDecreasingString\bin\Debug\net7.0\LeetCode1370.IncreasingDecreasingString.runtimeconfig.json
+C:\C#\LeetCode\LeetCode1370.IncreasingDecreasingString\LeetCode1370.IncreasingDecreasingString\bin\Debug\net7.0\LeetCode1370.IncreasingDecreasingString.dll
+C:\C#\LeetCode\LeetCode1370.IncreasingDecreasingString\LeetCode1370.IncreasingDecreasingString\bin\Debug\net7.0\LeetCode1370.IncreasingDecreasingString.pdb
+C:\C#\LeetCode\LeetCode1370.IncreasingDecreasingString\LeetCode1370.IncreasingDecreasingString\obj\Debug\net7.0\LeetCode1370.IncreasingDecreasingString.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode1370.IncreasingDecreasingString\LeetCode1370.IncreasingDecreasingString\obj\Debug\net7.0\LeetCode1370.IncreasingDecreasingString.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode1370.IncreasingDecreasingString\LeetCode1370.IncreasingDecreasingString\obj\Debug\net7.0\LeetCode1370.IncreasingDecreasingString.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode1370.IncreasingDecreasingString\LeetCode1370.IncreasingDecreasingString\obj\Debug\net7.0\LeetCode1370.IncreasingDecreasingString.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode1370.IncreasingDecreasingString\LeetCode1370.IncreasingDecreasingString\obj\Debug\net7.0\LeetCode1370.IncreasingDecreasingString.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode1370.IncreasingDecreasingString\LeetCode1370.IncreasingDecreasingString\obj\Debug\net7.0\LeetCode1370.IncreasingDecreasingString.dll
+C:\C#\LeetCode\LeetCode1370.IncreasingDecreasingString\LeetCode1370.IncreasingDecreasingString\obj\Debug\net7.0\refint\LeetCode1370.IncreasingDecreasingString.dll
+C:\C#\LeetCode\LeetCode1370.IncreasingDecreasingString\LeetCode1370.IncreasingDecreasingString\obj\Debug\net7.0\LeetCode1370.IncreasingDecreasingString.pdb
+C:\C#\LeetCode\LeetCode1370.IncreasingDecreasingString\LeetCode1370.IncreasingDecreasingString\obj\Debug\net7.0\LeetCode1370.IncreasingDecreasingString.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode1370.IncreasingDecreasingString\LeetCode1370.IncreasingDecreasingString\obj\Debug\net7.0\ref\LeetCode1370.IncreasingDecreasingString.dll

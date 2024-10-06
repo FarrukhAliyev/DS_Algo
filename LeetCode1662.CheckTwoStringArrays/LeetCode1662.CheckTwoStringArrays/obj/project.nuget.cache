@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hVSPFAht378RJiCvZgbKUkVS/0YLV5UoF5fTrHOZRkY9AFmTi+JjQ/Cfl+U+PS/qlLoK57AHUwXUAQY2N5nnKQ==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\LeetCode\\LeetCode1662.CheckTwoStringArrays\\LeetCode1662.CheckTwoStringArrays\\LeetCode1662.CheckTwoStringArrays.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://company-squid:3128'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

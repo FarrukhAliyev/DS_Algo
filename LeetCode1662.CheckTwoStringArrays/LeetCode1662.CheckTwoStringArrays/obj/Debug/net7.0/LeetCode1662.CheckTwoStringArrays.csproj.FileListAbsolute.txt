@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode1662.CheckTwoStringArrays\LeetCode1662.CheckTwoStringArrays\bin\Debug\net7.0\LeetCode1662.CheckTwoStringArrays.exe
+C:\C#\LeetCode\LeetCode1662.CheckTwoStringArrays\LeetCode1662.CheckTwoStringArrays\bin\Debug\net7.0\LeetCode1662.CheckTwoStringArrays.deps.json
+C:\C#\LeetCode\LeetCode1662.CheckTwoStringArrays\LeetCode1662.CheckTwoStringArrays\bin\Debug\net7.0\LeetCode1662.CheckTwoStringArrays.runtimeconfig.json
+C:\C#\LeetCode\LeetCode1662.CheckTwoStringArrays\LeetCode1662.CheckTwoStringArrays\bin\Debug\net7.0\LeetCode1662.CheckTwoStringArrays.dll
+C:\C#\LeetCode\LeetCode1662.CheckTwoStringArrays\LeetCode1662.CheckTwoStringArrays\bin\Debug\net7.0\LeetCode1662.CheckTwoStringArrays.pdb
+C:\C#\LeetCode\LeetCode1662.CheckTwoStringArrays\LeetCode1662.CheckTwoStringArrays\obj\Debug\net7.0\LeetCode1662.CheckTwoStringArrays.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode1662.CheckTwoStringArrays\LeetCode1662.CheckTwoStringArrays\obj\Debug\net7.0\LeetCode1662.CheckTwoStringArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode1662.CheckTwoStringArrays\LeetCode1662.CheckTwoStringArrays\obj\Debug\net7.0\LeetCode1662.CheckTwoStringArrays.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode1662.CheckTwoStringArrays\LeetCode1662.CheckTwoStringArrays\obj\Debug\net7.0\LeetCode1662.CheckTwoStringArrays.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode1662.CheckTwoStringArrays\LeetCode1662.CheckTwoStringArrays\obj\Debug\net7.0\LeetCode1662.CheckTwoStringArrays.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode1662.CheckTwoStringArrays\LeetCode1662.CheckTwoStringArrays\obj\Debug\net7.0\LeetCode1662.CheckTwoStringArrays.dll
+C:\C#\LeetCode\LeetCode1662.CheckTwoStringArrays\LeetCode1662.CheckTwoStringArrays\obj\Debug\net7.0\refint\LeetCode1662.CheckTwoStringArrays.dll
+C:\C#\LeetCode\LeetCode1662.CheckTwoStringArrays\LeetCode1662.CheckTwoStringArrays\obj\Debug\net7.0\LeetCode1662.CheckTwoStringArrays.pdb
+C:\C#\LeetCode\LeetCode1662.CheckTwoStringArrays\LeetCode1662.CheckTwoStringArrays\obj\Debug\net7.0\LeetCode1662.CheckTwoStringArrays.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode1662.CheckTwoStringArrays\LeetCode1662.CheckTwoStringArrays\obj\Debug\net7.0\ref\LeetCode1662.CheckTwoStringArrays.dll

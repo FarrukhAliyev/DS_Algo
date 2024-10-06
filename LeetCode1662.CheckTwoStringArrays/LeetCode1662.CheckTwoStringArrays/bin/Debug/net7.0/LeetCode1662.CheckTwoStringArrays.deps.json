@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LeetCode1662.CheckTwoStringArrays/1.0.0": {
+        "runtime": {
+          "LeetCode1662.CheckTwoStringArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetCode1662.CheckTwoStringArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
