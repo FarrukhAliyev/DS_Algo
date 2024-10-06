@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode350.IntersectionTwoArrays\LeetCode350.IntersectionTwoArrays\bin\Debug\net7.0\LeetCode350.IntersectionTwoArrays.exe
+C:\C#\LeetCode\LeetCode350.IntersectionTwoArrays\LeetCode350.IntersectionTwoArrays\bin\Debug\net7.0\LeetCode350.IntersectionTwoArrays.deps.json
+C:\C#\LeetCode\LeetCode350.IntersectionTwoArrays\LeetCode350.IntersectionTwoArrays\bin\Debug\net7.0\LeetCode350.IntersectionTwoArrays.runtimeconfig.json
+C:\C#\LeetCode\LeetCode350.IntersectionTwoArrays\LeetCode350.IntersectionTwoArrays\bin\Debug\net7.0\LeetCode350.IntersectionTwoArrays.dll
+C:\C#\LeetCode\LeetCode350.IntersectionTwoArrays\LeetCode350.IntersectionTwoArrays\bin\Debug\net7.0\LeetCode350.IntersectionTwoArrays.pdb
+C:\C#\LeetCode\LeetCode350.IntersectionTwoArrays\LeetCode350.IntersectionTwoArrays\obj\Debug\net7.0\LeetCode350.IntersectionTwoArrays.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode350.IntersectionTwoArrays\LeetCode350.IntersectionTwoArrays\obj\Debug\net7.0\LeetCode350.IntersectionTwoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode350.IntersectionTwoArrays\LeetCode350.IntersectionTwoArrays\obj\Debug\net7.0\LeetCode350.IntersectionTwoArrays.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode350.IntersectionTwoArrays\LeetCode350.IntersectionTwoArrays\obj\Debug\net7.0\LeetCode350.IntersectionTwoArrays.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode350.IntersectionTwoArrays\LeetCode350.IntersectionTwoArrays\obj\Debug\net7.0\LeetCode350.IntersectionTwoArrays.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode350.IntersectionTwoArrays\LeetCode350.IntersectionTwoArrays\obj\Debug\net7.0\LeetCode350.IntersectionTwoArrays.dll
+C:\C#\LeetCode\LeetCode350.IntersectionTwoArrays\LeetCode350.IntersectionTwoArrays\obj\Debug\net7.0\refint\LeetCode350.IntersectionTwoArrays.dll
+C:\C#\LeetCode\LeetCode350.IntersectionTwoArrays\LeetCode350.IntersectionTwoArrays\obj\Debug\net7.0\LeetCode350.IntersectionTwoArrays.pdb
+C:\C#\LeetCode\LeetCode350.IntersectionTwoArrays\LeetCode350.IntersectionTwoArrays\obj\Debug\net7.0\LeetCode350.IntersectionTwoArrays.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode350.IntersectionTwoArrays\LeetCode350.IntersectionTwoArrays\obj\Debug\net7.0\ref\LeetCode350.IntersectionTwoArrays.dll

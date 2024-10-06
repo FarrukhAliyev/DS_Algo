@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode387.FirstUniqChar\LeetCode387.FirstUniqChar\bin\Debug\net7.0\LeetCode387.FirstUniqChar.exe
+C:\C#\LeetCode\LeetCode387.FirstUniqChar\LeetCode387.FirstUniqChar\bin\Debug\net7.0\LeetCode387.FirstUniqChar.deps.json
+C:\C#\LeetCode\LeetCode387.FirstUniqChar\LeetCode387.FirstUniqChar\bin\Debug\net7.0\LeetCode387.FirstUniqChar.runtimeconfig.json
+C:\C#\LeetCode\LeetCode387.FirstUniqChar\LeetCode387.FirstUniqChar\bin\Debug\net7.0\LeetCode387.FirstUniqChar.dll
+C:\C#\LeetCode\LeetCode387.FirstUniqChar\LeetCode387.FirstUniqChar\bin\Debug\net7.0\LeetCode387.FirstUniqChar.pdb
+C:\C#\LeetCode\LeetCode387.FirstUniqChar\LeetCode387.FirstUniqChar\obj\Debug\net7.0\LeetCode387.FirstUniqChar.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode387.FirstUniqChar\LeetCode387.FirstUniqChar\obj\Debug\net7.0\LeetCode387.FirstUniqChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode387.FirstUniqChar\LeetCode387.FirstUniqChar\obj\Debug\net7.0\LeetCode387.FirstUniqChar.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode387.FirstUniqChar\LeetCode387.FirstUniqChar\obj\Debug\net7.0\LeetCode387.FirstUniqChar.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode387.FirstUniqChar\LeetCode387.FirstUniqChar\obj\Debug\net7.0\LeetCode387.FirstUniqChar.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode387.FirstUniqChar\LeetCode387.FirstUniqChar\obj\Debug\net7.0\LeetCode387.FirstUniqChar.dll
+C:\C#\LeetCode\LeetCode387.FirstUniqChar\LeetCode387.FirstUniqChar\obj\Debug\net7.0\refint\LeetCode387.FirstUniqChar.dll
+C:\C#\LeetCode\LeetCode387.FirstUniqChar\LeetCode387.FirstUniqChar\obj\Debug\net7.0\LeetCode387.FirstUniqChar.pdb
+C:\C#\LeetCode\LeetCode387.FirstUniqChar\LeetCode387.FirstUniqChar\obj\Debug\net7.0\LeetCode387.FirstUniqChar.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode387.FirstUniqChar\LeetCode387.FirstUniqChar\obj\Debug\net7.0\ref\LeetCode387.FirstUniqChar.dll
