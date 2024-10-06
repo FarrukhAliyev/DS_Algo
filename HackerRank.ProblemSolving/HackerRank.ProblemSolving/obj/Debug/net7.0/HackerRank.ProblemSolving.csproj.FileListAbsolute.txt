@@ -1,0 +1,15 @@
+C:\C#\LeetCode\HackerRank.ProblemSolving\HackerRank.ProblemSolving\bin\Debug\net7.0\HackerRank.ProblemSolving.exe
+C:\C#\LeetCode\HackerRank.ProblemSolving\HackerRank.ProblemSolving\bin\Debug\net7.0\HackerRank.ProblemSolving.deps.json
+C:\C#\LeetCode\HackerRank.ProblemSolving\HackerRank.ProblemSolving\bin\Debug\net7.0\HackerRank.ProblemSolving.runtimeconfig.json
+C:\C#\LeetCode\HackerRank.ProblemSolving\HackerRank.ProblemSolving\bin\Debug\net7.0\HackerRank.ProblemSolving.dll
+C:\C#\LeetCode\HackerRank.ProblemSolving\HackerRank.ProblemSolving\bin\Debug\net7.0\HackerRank.ProblemSolving.pdb
+C:\C#\LeetCode\HackerRank.ProblemSolving\HackerRank.ProblemSolving\obj\Debug\net7.0\HackerRank.ProblemSolving.csproj.AssemblyReference.cache
+C:\C#\LeetCode\HackerRank.ProblemSolving\HackerRank.ProblemSolving\obj\Debug\net7.0\HackerRank.ProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\HackerRank.ProblemSolving\HackerRank.ProblemSolving\obj\Debug\net7.0\HackerRank.ProblemSolving.AssemblyInfoInputs.cache
+C:\C#\LeetCode\HackerRank.ProblemSolving\HackerRank.ProblemSolving\obj\Debug\net7.0\HackerRank.ProblemSolving.AssemblyInfo.cs
+C:\C#\LeetCode\HackerRank.ProblemSolving\HackerRank.ProblemSolving\obj\Debug\net7.0\HackerRank.ProblemSolving.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\HackerRank.ProblemSolving\HackerRank.ProblemSolving\obj\Debug\net7.0\HackerRank.ProblemSolving.dll
+C:\C#\LeetCode\HackerRank.ProblemSolving\HackerRank.ProblemSolving\obj\Debug\net7.0\refint\HackerRank.ProblemSolving.dll
+C:\C#\LeetCode\HackerRank.ProblemSolving\HackerRank.ProblemSolving\obj\Debug\net7.0\HackerRank.ProblemSolving.pdb
+C:\C#\LeetCode\HackerRank.ProblemSolving\HackerRank.ProblemSolving\obj\Debug\net7.0\HackerRank.ProblemSolving.genruntimeconfig.cache
+C:\C#\LeetCode\HackerRank.ProblemSolving\HackerRank.ProblemSolving\obj\Debug\net7.0\ref\HackerRank.ProblemSolving.dll

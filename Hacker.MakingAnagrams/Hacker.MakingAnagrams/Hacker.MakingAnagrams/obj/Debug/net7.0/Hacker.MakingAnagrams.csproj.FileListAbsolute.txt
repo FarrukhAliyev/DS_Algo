@@ -1,0 +1,15 @@
+C:\C#\LeetCode\Hacker.MakingAnagrams\Hacker.MakingAnagrams\Hacker.MakingAnagrams\bin\Debug\net7.0\Hacker.MakingAnagrams.exe
+C:\C#\LeetCode\Hacker.MakingAnagrams\Hacker.MakingAnagrams\Hacker.MakingAnagrams\bin\Debug\net7.0\Hacker.MakingAnagrams.deps.json
+C:\C#\LeetCode\Hacker.MakingAnagrams\Hacker.MakingAnagrams\Hacker.MakingAnagrams\bin\Debug\net7.0\Hacker.MakingAnagrams.runtimeconfig.json
+C:\C#\LeetCode\Hacker.MakingAnagrams\Hacker.MakingAnagrams\Hacker.MakingAnagrams\bin\Debug\net7.0\Hacker.MakingAnagrams.dll
+C:\C#\LeetCode\Hacker.MakingAnagrams\Hacker.MakingAnagrams\Hacker.MakingAnagrams\bin\Debug\net7.0\Hacker.MakingAnagrams.pdb
+C:\C#\LeetCode\Hacker.MakingAnagrams\Hacker.MakingAnagrams\Hacker.MakingAnagrams\obj\Debug\net7.0\Hacker.MakingAnagrams.csproj.AssemblyReference.cache
+C:\C#\LeetCode\Hacker.MakingAnagrams\Hacker.MakingAnagrams\Hacker.MakingAnagrams\obj\Debug\net7.0\Hacker.MakingAnagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\Hacker.MakingAnagrams\Hacker.MakingAnagrams\Hacker.MakingAnagrams\obj\Debug\net7.0\Hacker.MakingAnagrams.AssemblyInfoInputs.cache
+C:\C#\LeetCode\Hacker.MakingAnagrams\Hacker.MakingAnagrams\Hacker.MakingAnagrams\obj\Debug\net7.0\Hacker.MakingAnagrams.AssemblyInfo.cs
+C:\C#\LeetCode\Hacker.MakingAnagrams\Hacker.MakingAnagrams\Hacker.MakingAnagrams\obj\Debug\net7.0\Hacker.MakingAnagrams.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\Hacker.MakingAnagrams\Hacker.MakingAnagrams\Hacker.MakingAnagrams\obj\Debug\net7.0\Hacker.MakingAnagrams.dll
+C:\C#\LeetCode\Hacker.MakingAnagrams\Hacker.MakingAnagrams\Hacker.MakingAnagrams\obj\Debug\net7.0\refint\Hacker.MakingAnagrams.dll
+C:\C#\LeetCode\Hacker.MakingAnagrams\Hacker.MakingAnagrams\Hacker.MakingAnagrams\obj\Debug\net7.0\Hacker.MakingAnagrams.pdb
+C:\C#\LeetCode\Hacker.MakingAnagrams\Hacker.MakingAnagrams\Hacker.MakingAnagrams\obj\Debug\net7.0\Hacker.MakingAnagrams.genruntimeconfig.cache
+C:\C#\LeetCode\Hacker.MakingAnagrams\Hacker.MakingAnagrams\Hacker.MakingAnagrams\obj\Debug\net7.0\ref\Hacker.MakingAnagrams.dll
