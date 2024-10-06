@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode35.SearchInsertPosition\LeetCode35.SearchInsertPosition\bin\Debug\net7.0\LeetCode35.SearchInsertPosition.exe
+C:\C#\LeetCode\LeetCode35.SearchInsertPosition\LeetCode35.SearchInsertPosition\bin\Debug\net7.0\LeetCode35.SearchInsertPosition.deps.json
+C:\C#\LeetCode\LeetCode35.SearchInsertPosition\LeetCode35.SearchInsertPosition\bin\Debug\net7.0\LeetCode35.SearchInsertPosition.runtimeconfig.json
+C:\C#\LeetCode\LeetCode35.SearchInsertPosition\LeetCode35.SearchInsertPosition\bin\Debug\net7.0\LeetCode35.SearchInsertPosition.dll
+C:\C#\LeetCode\LeetCode35.SearchInsertPosition\LeetCode35.SearchInsertPosition\bin\Debug\net7.0\LeetCode35.SearchInsertPosition.pdb
+C:\C#\LeetCode\LeetCode35.SearchInsertPosition\LeetCode35.SearchInsertPosition\obj\Debug\net7.0\LeetCode35.SearchInsertPosition.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode35.SearchInsertPosition\LeetCode35.SearchInsertPosition\obj\Debug\net7.0\LeetCode35.SearchInsertPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode35.SearchInsertPosition\LeetCode35.SearchInsertPosition\obj\Debug\net7.0\LeetCode35.SearchInsertPosition.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode35.SearchInsertPosition\LeetCode35.SearchInsertPosition\obj\Debug\net7.0\LeetCode35.SearchInsertPosition.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode35.SearchInsertPosition\LeetCode35.SearchInsertPosition\obj\Debug\net7.0\LeetCode35.SearchInsertPosition.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode35.SearchInsertPosition\LeetCode35.SearchInsertPosition\obj\Debug\net7.0\LeetCode35.SearchInsertPosition.dll
+C:\C#\LeetCode\LeetCode35.SearchInsertPosition\LeetCode35.SearchInsertPosition\obj\Debug\net7.0\refint\LeetCode35.SearchInsertPosition.dll
+C:\C#\LeetCode\LeetCode35.SearchInsertPosition\LeetCode35.SearchInsertPosition\obj\Debug\net7.0\LeetCode35.SearchInsertPosition.pdb
+C:\C#\LeetCode\LeetCode35.SearchInsertPosition\LeetCode35.SearchInsertPosition\obj\Debug\net7.0\LeetCode35.SearchInsertPosition.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode35.SearchInsertPosition\LeetCode35.SearchInsertPosition\obj\Debug\net7.0\ref\LeetCode35.SearchInsertPosition.dll

@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode49.GroupAnagrams\LeetCode49.GroupAnagrams\bin\Debug\net7.0\LeetCode49.GroupAnagrams.exe
+C:\C#\LeetCode\LeetCode49.GroupAnagrams\LeetCode49.GroupAnagrams\bin\Debug\net7.0\LeetCode49.GroupAnagrams.deps.json
+C:\C#\LeetCode\LeetCode49.GroupAnagrams\LeetCode49.GroupAnagrams\bin\Debug\net7.0\LeetCode49.GroupAnagrams.runtimeconfig.json
+C:\C#\LeetCode\LeetCode49.GroupAnagrams\LeetCode49.GroupAnagrams\bin\Debug\net7.0\LeetCode49.GroupAnagrams.dll
+C:\C#\LeetCode\LeetCode49.GroupAnagrams\LeetCode49.GroupAnagrams\bin\Debug\net7.0\LeetCode49.GroupAnagrams.pdb
+C:\C#\LeetCode\LeetCode49.GroupAnagrams\LeetCode49.GroupAnagrams\obj\Debug\net7.0\LeetCode49.GroupAnagrams.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode49.GroupAnagrams\LeetCode49.GroupAnagrams\obj\Debug\net7.0\LeetCode49.GroupAnagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode49.GroupAnagrams\LeetCode49.GroupAnagrams\obj\Debug\net7.0\LeetCode49.GroupAnagrams.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode49.GroupAnagrams\LeetCode49.GroupAnagrams\obj\Debug\net7.0\LeetCode49.GroupAnagrams.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode49.GroupAnagrams\LeetCode49.GroupAnagrams\obj\Debug\net7.0\LeetCode49.GroupAnagrams.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode49.GroupAnagrams\LeetCode49.GroupAnagrams\obj\Debug\net7.0\LeetCode49.GroupAnagrams.dll
+C:\C#\LeetCode\LeetCode49.GroupAnagrams\LeetCode49.GroupAnagrams\obj\Debug\net7.0\refint\LeetCode49.GroupAnagrams.dll
+C:\C#\LeetCode\LeetCode49.GroupAnagrams\LeetCode49.GroupAnagrams\obj\Debug\net7.0\LeetCode49.GroupAnagrams.pdb
+C:\C#\LeetCode\LeetCode49.GroupAnagrams\LeetCode49.GroupAnagrams\obj\Debug\net7.0\LeetCode49.GroupAnagrams.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode49.GroupAnagrams\LeetCode49.GroupAnagrams\obj\Debug\net7.0\ref\LeetCode49.GroupAnagrams.dll

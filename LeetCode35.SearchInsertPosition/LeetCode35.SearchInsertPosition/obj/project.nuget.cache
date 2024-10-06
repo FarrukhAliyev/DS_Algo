@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xqW1U5EuitsuuyGnCEhYEzoJZhi2ODJ8JIqFg3duCs9swNMZa0s7N1YV7lN1zs5n2+2E6EhgIeK5Jop+a7064w==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\LeetCode\\LeetCode35.SearchInsertPosition\\LeetCode35.SearchInsertPosition\\LeetCode35.SearchInsertPosition.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://company-squid:3128'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
