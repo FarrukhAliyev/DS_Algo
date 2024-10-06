@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode1790.OneStringSwap\LeetCode1790.OneStringSwap\bin\Debug\net7.0\LeetCode1790.OneStringSwap.exe
+C:\C#\LeetCode\LeetCode1790.OneStringSwap\LeetCode1790.OneStringSwap\bin\Debug\net7.0\LeetCode1790.OneStringSwap.deps.json
+C:\C#\LeetCode\LeetCode1790.OneStringSwap\LeetCode1790.OneStringSwap\bin\Debug\net7.0\LeetCode1790.OneStringSwap.runtimeconfig.json
+C:\C#\LeetCode\LeetCode1790.OneStringSwap\LeetCode1790.OneStringSwap\bin\Debug\net7.0\LeetCode1790.OneStringSwap.dll
+C:\C#\LeetCode\LeetCode1790.OneStringSwap\LeetCode1790.OneStringSwap\bin\Debug\net7.0\LeetCode1790.OneStringSwap.pdb
+C:\C#\LeetCode\LeetCode1790.OneStringSwap\LeetCode1790.OneStringSwap\obj\Debug\net7.0\LeetCode1790.OneStringSwap.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode1790.OneStringSwap\LeetCode1790.OneStringSwap\obj\Debug\net7.0\LeetCode1790.OneStringSwap.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode1790.OneStringSwap\LeetCode1790.OneStringSwap\obj\Debug\net7.0\LeetCode1790.OneStringSwap.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode1790.OneStringSwap\LeetCode1790.OneStringSwap\obj\Debug\net7.0\LeetCode1790.OneStringSwap.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode1790.OneStringSwap\LeetCode1790.OneStringSwap\obj\Debug\net7.0\LeetCode1790.OneStringSwap.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode1790.OneStringSwap\LeetCode1790.OneStringSwap\obj\Debug\net7.0\LeetCode1790.OneStringSwap.dll
+C:\C#\LeetCode\LeetCode1790.OneStringSwap\LeetCode1790.OneStringSwap\obj\Debug\net7.0\refint\LeetCode1790.OneStringSwap.dll
+C:\C#\LeetCode\LeetCode1790.OneStringSwap\LeetCode1790.OneStringSwap\obj\Debug\net7.0\LeetCode1790.OneStringSwap.pdb
+C:\C#\LeetCode\LeetCode1790.OneStringSwap\LeetCode1790.OneStringSwap\obj\Debug\net7.0\LeetCode1790.OneStringSwap.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode1790.OneStringSwap\LeetCode1790.OneStringSwap\obj\Debug\net7.0\ref\LeetCode1790.OneStringSwap.dll

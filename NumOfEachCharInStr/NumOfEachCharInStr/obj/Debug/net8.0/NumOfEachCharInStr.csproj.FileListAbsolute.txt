@@ -1,0 +1,14 @@
+C:\C#\LeetCode\NumOfEachCharInStr\NumOfEachCharInStr\bin\Debug\net8.0\NumOfEachCharInStr.exe
+C:\C#\LeetCode\NumOfEachCharInStr\NumOfEachCharInStr\bin\Debug\net8.0\NumOfEachCharInStr.deps.json
+C:\C#\LeetCode\NumOfEachCharInStr\NumOfEachCharInStr\bin\Debug\net8.0\NumOfEachCharInStr.runtimeconfig.json
+C:\C#\LeetCode\NumOfEachCharInStr\NumOfEachCharInStr\bin\Debug\net8.0\NumOfEachCharInStr.dll
+C:\C#\LeetCode\NumOfEachCharInStr\NumOfEachCharInStr\bin\Debug\net8.0\NumOfEachCharInStr.pdb
+C:\C#\LeetCode\NumOfEachCharInStr\NumOfEachCharInStr\obj\Debug\net8.0\NumOfEachCharInStr.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\NumOfEachCharInStr\NumOfEachCharInStr\obj\Debug\net8.0\NumOfEachCharInStr.AssemblyInfoInputs.cache
+C:\C#\LeetCode\NumOfEachCharInStr\NumOfEachCharInStr\obj\Debug\net8.0\NumOfEachCharInStr.AssemblyInfo.cs
+C:\C#\LeetCode\NumOfEachCharInStr\NumOfEachCharInStr\obj\Debug\net8.0\NumOfEachCharInStr.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\NumOfEachCharInStr\NumOfEachCharInStr\obj\Debug\net8.0\NumOfEachCharInStr.dll
+C:\C#\LeetCode\NumOfEachCharInStr\NumOfEachCharInStr\obj\Debug\net8.0\refint\NumOfEachCharInStr.dll
+C:\C#\LeetCode\NumOfEachCharInStr\NumOfEachCharInStr\obj\Debug\net8.0\NumOfEachCharInStr.pdb
+C:\C#\LeetCode\NumOfEachCharInStr\NumOfEachCharInStr\obj\Debug\net8.0\NumOfEachCharInStr.genruntimeconfig.cache
+C:\C#\LeetCode\NumOfEachCharInStr\NumOfEachCharInStr\obj\Debug\net8.0\ref\NumOfEachCharInStr.dll
