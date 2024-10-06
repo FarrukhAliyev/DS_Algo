@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode169.MajorityElement\LeetCode169.MajorityElement\bin\Debug\net7.0\LeetCode169.MajorityElement.exe
+C:\C#\LeetCode\LeetCode169.MajorityElement\LeetCode169.MajorityElement\bin\Debug\net7.0\LeetCode169.MajorityElement.deps.json
+C:\C#\LeetCode\LeetCode169.MajorityElement\LeetCode169.MajorityElement\bin\Debug\net7.0\LeetCode169.MajorityElement.runtimeconfig.json
+C:\C#\LeetCode\LeetCode169.MajorityElement\LeetCode169.MajorityElement\bin\Debug\net7.0\LeetCode169.MajorityElement.dll
+C:\C#\LeetCode\LeetCode169.MajorityElement\LeetCode169.MajorityElement\bin\Debug\net7.0\LeetCode169.MajorityElement.pdb
+C:\C#\LeetCode\LeetCode169.MajorityElement\LeetCode169.MajorityElement\obj\Debug\net7.0\LeetCode169.MajorityElement.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode169.MajorityElement\LeetCode169.MajorityElement\obj\Debug\net7.0\LeetCode169.MajorityElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode169.MajorityElement\LeetCode169.MajorityElement\obj\Debug\net7.0\LeetCode169.MajorityElement.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode169.MajorityElement\LeetCode169.MajorityElement\obj\Debug\net7.0\LeetCode169.MajorityElement.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode169.MajorityElement\LeetCode169.MajorityElement\obj\Debug\net7.0\LeetCode169.MajorityElement.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode169.MajorityElement\LeetCode169.MajorityElement\obj\Debug\net7.0\LeetCode169.MajorityElement.dll
+C:\C#\LeetCode\LeetCode169.MajorityElement\LeetCode169.MajorityElement\obj\Debug\net7.0\refint\LeetCode169.MajorityElement.dll
+C:\C#\LeetCode\LeetCode169.MajorityElement\LeetCode169.MajorityElement\obj\Debug\net7.0\LeetCode169.MajorityElement.pdb
+C:\C#\LeetCode\LeetCode169.MajorityElement\LeetCode169.MajorityElement\obj\Debug\net7.0\LeetCode169.MajorityElement.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode169.MajorityElement\LeetCode169.MajorityElement\obj\Debug\net7.0\ref\LeetCode169.MajorityElement.dll

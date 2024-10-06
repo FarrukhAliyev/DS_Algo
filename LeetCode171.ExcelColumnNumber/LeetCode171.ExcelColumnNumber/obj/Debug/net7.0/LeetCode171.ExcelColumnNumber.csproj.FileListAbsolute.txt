@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode171.ExcelColumnNumber\LeetCode171.ExcelColumnNumber\bin\Debug\net7.0\LeetCode171.ExcelColumnNumber.exe
+C:\C#\LeetCode\LeetCode171.ExcelColumnNumber\LeetCode171.ExcelColumnNumber\bin\Debug\net7.0\LeetCode171.ExcelColumnNumber.deps.json
+C:\C#\LeetCode\LeetCode171.ExcelColumnNumber\LeetCode171.ExcelColumnNumber\bin\Debug\net7.0\LeetCode171.ExcelColumnNumber.runtimeconfig.json
+C:\C#\LeetCode\LeetCode171.ExcelColumnNumber\LeetCode171.ExcelColumnNumber\bin\Debug\net7.0\LeetCode171.ExcelColumnNumber.dll
+C:\C#\LeetCode\LeetCode171.ExcelColumnNumber\LeetCode171.ExcelColumnNumber\bin\Debug\net7.0\LeetCode171.ExcelColumnNumber.pdb
+C:\C#\LeetCode\LeetCode171.ExcelColumnNumber\LeetCode171.ExcelColumnNumber\obj\Debug\net7.0\LeetCode171.ExcelColumnNumber.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode171.ExcelColumnNumber\LeetCode171.ExcelColumnNumber\obj\Debug\net7.0\LeetCode171.ExcelColumnNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode171.ExcelColumnNumber\LeetCode171.ExcelColumnNumber\obj\Debug\net7.0\LeetCode171.ExcelColumnNumber.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode171.ExcelColumnNumber\LeetCode171.ExcelColumnNumber\obj\Debug\net7.0\LeetCode171.ExcelColumnNumber.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode171.ExcelColumnNumber\LeetCode171.ExcelColumnNumber\obj\Debug\net7.0\LeetCode171.ExcelColumnNumber.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode171.ExcelColumnNumber\LeetCode171.ExcelColumnNumber\obj\Debug\net7.0\LeetCode171.ExcelColumnNumber.dll
+C:\C#\LeetCode\LeetCode171.ExcelColumnNumber\LeetCode171.ExcelColumnNumber\obj\Debug\net7.0\refint\LeetCode171.ExcelColumnNumber.dll
+C:\C#\LeetCode\LeetCode171.ExcelColumnNumber\LeetCode171.ExcelColumnNumber\obj\Debug\net7.0\LeetCode171.ExcelColumnNumber.pdb
+C:\C#\LeetCode\LeetCode171.ExcelColumnNumber\LeetCode171.ExcelColumnNumber\obj\Debug\net7.0\LeetCode171.ExcelColumnNumber.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode171.ExcelColumnNumber\LeetCode171.ExcelColumnNumber\obj\Debug\net7.0\ref\LeetCode171.ExcelColumnNumber.dll

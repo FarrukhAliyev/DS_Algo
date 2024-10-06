@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oAr56A+OaK1LZ/yMQaQxrT/y543fbo4Ev9Kn8gauzFCnVKTf6hmDVREWu2WPLDuQ8D9Glx6oDD4fO3buyKkOhg==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\LeetCode\\LeetCode171.ExcelColumnNumber\\LeetCode171.ExcelColumnNumber\\LeetCode171.ExcelColumnNumber.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://company-squid:3128'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
