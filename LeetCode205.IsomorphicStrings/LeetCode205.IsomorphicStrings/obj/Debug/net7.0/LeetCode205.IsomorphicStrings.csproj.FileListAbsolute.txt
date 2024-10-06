@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode205.IsomorphicStrings\LeetCode205.IsomorphicStrings\bin\Debug\net7.0\LeetCode205.IsomorphicStrings.exe
+C:\C#\LeetCode\LeetCode205.IsomorphicStrings\LeetCode205.IsomorphicStrings\bin\Debug\net7.0\LeetCode205.IsomorphicStrings.deps.json
+C:\C#\LeetCode\LeetCode205.IsomorphicStrings\LeetCode205.IsomorphicStrings\bin\Debug\net7.0\LeetCode205.IsomorphicStrings.runtimeconfig.json
+C:\C#\LeetCode\LeetCode205.IsomorphicStrings\LeetCode205.IsomorphicStrings\bin\Debug\net7.0\LeetCode205.IsomorphicStrings.dll
+C:\C#\LeetCode\LeetCode205.IsomorphicStrings\LeetCode205.IsomorphicStrings\bin\Debug\net7.0\LeetCode205.IsomorphicStrings.pdb
+C:\C#\LeetCode\LeetCode205.IsomorphicStrings\LeetCode205.IsomorphicStrings\obj\Debug\net7.0\LeetCode205.IsomorphicStrings.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode205.IsomorphicStrings\LeetCode205.IsomorphicStrings\obj\Debug\net7.0\LeetCode205.IsomorphicStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode205.IsomorphicStrings\LeetCode205.IsomorphicStrings\obj\Debug\net7.0\LeetCode205.IsomorphicStrings.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode205.IsomorphicStrings\LeetCode205.IsomorphicStrings\obj\Debug\net7.0\LeetCode205.IsomorphicStrings.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode205.IsomorphicStrings\LeetCode205.IsomorphicStrings\obj\Debug\net7.0\LeetCode205.IsomorphicStrings.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode205.IsomorphicStrings\LeetCode205.IsomorphicStrings\obj\Debug\net7.0\LeetCode205.IsomorphicStrings.dll
+C:\C#\LeetCode\LeetCode205.IsomorphicStrings\LeetCode205.IsomorphicStrings\obj\Debug\net7.0\refint\LeetCode205.IsomorphicStrings.dll
+C:\C#\LeetCode\LeetCode205.IsomorphicStrings\LeetCode205.IsomorphicStrings\obj\Debug\net7.0\LeetCode205.IsomorphicStrings.pdb
+C:\C#\LeetCode\LeetCode205.IsomorphicStrings\LeetCode205.IsomorphicStrings\obj\Debug\net7.0\LeetCode205.IsomorphicStrings.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode205.IsomorphicStrings\LeetCode205.IsomorphicStrings\obj\Debug\net7.0\ref\LeetCode205.IsomorphicStrings.dll

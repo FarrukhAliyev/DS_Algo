@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LeetCode242.ValidAnagram/1.0.0": {
+        "runtime": {
+          "LeetCode242.ValidAnagram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetCode242.ValidAnagram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode242.ValidAnagram\LeetCode242.ValidAnagram\bin\Debug\net7.0\LeetCode242.ValidAnagram.exe
+C:\C#\LeetCode\LeetCode242.ValidAnagram\LeetCode242.ValidAnagram\bin\Debug\net7.0\LeetCode242.ValidAnagram.deps.json
+C:\C#\LeetCode\LeetCode242.ValidAnagram\LeetCode242.ValidAnagram\bin\Debug\net7.0\LeetCode242.ValidAnagram.runtimeconfig.json
+C:\C#\LeetCode\LeetCode242.ValidAnagram\LeetCode242.ValidAnagram\bin\Debug\net7.0\LeetCode242.ValidAnagram.dll
+C:\C#\LeetCode\LeetCode242.ValidAnagram\LeetCode242.ValidAnagram\bin\Debug\net7.0\LeetCode242.ValidAnagram.pdb
+C:\C#\LeetCode\LeetCode242.ValidAnagram\LeetCode242.ValidAnagram\obj\Debug\net7.0\LeetCode242.ValidAnagram.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode242.ValidAnagram\LeetCode242.ValidAnagram\obj\Debug\net7.0\LeetCode242.ValidAnagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode242.ValidAnagram\LeetCode242.ValidAnagram\obj\Debug\net7.0\LeetCode242.ValidAnagram.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode242.ValidAnagram\LeetCode242.ValidAnagram\obj\Debug\net7.0\LeetCode242.ValidAnagram.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode242.ValidAnagram\LeetCode242.ValidAnagram\obj\Debug\net7.0\LeetCode242.ValidAnagram.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode242.ValidAnagram\LeetCode242.ValidAnagram\obj\Debug\net7.0\LeetCode242.ValidAnagram.dll
+C:\C#\LeetCode\LeetCode242.ValidAnagram\LeetCode242.ValidAnagram\obj\Debug\net7.0\refint\LeetCode242.ValidAnagram.dll
+C:\C#\LeetCode\LeetCode242.ValidAnagram\LeetCode242.ValidAnagram\obj\Debug\net7.0\LeetCode242.ValidAnagram.pdb
+C:\C#\LeetCode\LeetCode242.ValidAnagram\LeetCode242.ValidAnagram\obj\Debug\net7.0\LeetCode242.ValidAnagram.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode242.ValidAnagram\LeetCode242.ValidAnagram\obj\Debug\net7.0\ref\LeetCode242.ValidAnagram.dll

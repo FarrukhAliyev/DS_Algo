@@ -1,0 +1,15 @@
+C:\C#\LeetCode\LeetCode217.ContainsDuplicate\LeetCode217.ContainsDuplicate\bin\Debug\net7.0\LeetCode217.ContainsDuplicate.exe
+C:\C#\LeetCode\LeetCode217.ContainsDuplicate\LeetCode217.ContainsDuplicate\bin\Debug\net7.0\LeetCode217.ContainsDuplicate.deps.json
+C:\C#\LeetCode\LeetCode217.ContainsDuplicate\LeetCode217.ContainsDuplicate\bin\Debug\net7.0\LeetCode217.ContainsDuplicate.runtimeconfig.json
+C:\C#\LeetCode\LeetCode217.ContainsDuplicate\LeetCode217.ContainsDuplicate\bin\Debug\net7.0\LeetCode217.ContainsDuplicate.dll
+C:\C#\LeetCode\LeetCode217.ContainsDuplicate\LeetCode217.ContainsDuplicate\bin\Debug\net7.0\LeetCode217.ContainsDuplicate.pdb
+C:\C#\LeetCode\LeetCode217.ContainsDuplicate\LeetCode217.ContainsDuplicate\obj\Debug\net7.0\LeetCode217.ContainsDuplicate.csproj.AssemblyReference.cache
+C:\C#\LeetCode\LeetCode217.ContainsDuplicate\LeetCode217.ContainsDuplicate\obj\Debug\net7.0\LeetCode217.ContainsDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode217.ContainsDuplicate\LeetCode217.ContainsDuplicate\obj\Debug\net7.0\LeetCode217.ContainsDuplicate.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode217.ContainsDuplicate\LeetCode217.ContainsDuplicate\obj\Debug\net7.0\LeetCode217.ContainsDuplicate.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode217.ContainsDuplicate\LeetCode217.ContainsDuplicate\obj\Debug\net7.0\LeetCode217.ContainsDuplicate.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode217.ContainsDuplicate\LeetCode217.ContainsDuplicate\obj\Debug\net7.0\LeetCode217.ContainsDuplicate.dll
+C:\C#\LeetCode\LeetCode217.ContainsDuplicate\LeetCode217.ContainsDuplicate\obj\Debug\net7.0\refint\LeetCode217.ContainsDuplicate.dll
+C:\C#\LeetCode\LeetCode217.ContainsDuplicate\LeetCode217.ContainsDuplicate\obj\Debug\net7.0\LeetCode217.ContainsDuplicate.pdb
+C:\C#\LeetCode\LeetCode217.ContainsDuplicate\LeetCode217.ContainsDuplicate\obj\Debug\net7.0\LeetCode217.ContainsDuplicate.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode217.ContainsDuplicate\LeetCode217.ContainsDuplicate\obj\Debug\net7.0\ref\LeetCode217.ContainsDuplicate.dll
