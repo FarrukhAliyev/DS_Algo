@@ -1,0 +1,14 @@
+C:\C#\LeetCode\StarDiamond\StarDiamond\bin\Debug\net8.0\StarDiamond.exe
+C:\C#\LeetCode\StarDiamond\StarDiamond\bin\Debug\net8.0\StarDiamond.deps.json
+C:\C#\LeetCode\StarDiamond\StarDiamond\bin\Debug\net8.0\StarDiamond.runtimeconfig.json
+C:\C#\LeetCode\StarDiamond\StarDiamond\bin\Debug\net8.0\StarDiamond.dll
+C:\C#\LeetCode\StarDiamond\StarDiamond\bin\Debug\net8.0\StarDiamond.pdb
+C:\C#\LeetCode\StarDiamond\StarDiamond\obj\Debug\net8.0\StarDiamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\StarDiamond\StarDiamond\obj\Debug\net8.0\StarDiamond.AssemblyInfoInputs.cache
+C:\C#\LeetCode\StarDiamond\StarDiamond\obj\Debug\net8.0\StarDiamond.AssemblyInfo.cs
+C:\C#\LeetCode\StarDiamond\StarDiamond\obj\Debug\net8.0\StarDiamond.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\StarDiamond\StarDiamond\obj\Debug\net8.0\StarDiamond.dll
+C:\C#\LeetCode\StarDiamond\StarDiamond\obj\Debug\net8.0\refint\StarDiamond.dll
+C:\C#\LeetCode\StarDiamond\StarDiamond\obj\Debug\net8.0\StarDiamond.pdb
+C:\C#\LeetCode\StarDiamond\StarDiamond\obj\Debug\net8.0\StarDiamond.genruntimeconfig.cache
+C:\C#\LeetCode\StarDiamond\StarDiamond\obj\Debug\net8.0\ref\StarDiamond.dll
