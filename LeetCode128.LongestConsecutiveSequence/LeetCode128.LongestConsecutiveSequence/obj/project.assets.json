@@ -20,6 +20,7 @@
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
       "outputPath": "C:\\C#\\LeetCode\\LeetCode128.LongestConsecutiveSequence\\LeetCode128.LongestConsecutiveSequence\\obj\\",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
