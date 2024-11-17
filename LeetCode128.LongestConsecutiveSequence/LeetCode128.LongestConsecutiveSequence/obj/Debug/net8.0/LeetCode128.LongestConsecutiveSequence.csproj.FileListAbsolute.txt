@@ -1,0 +1,14 @@
+C:\C#\LeetCode\LeetCode128.LongestConsecutiveSequence\LeetCode128.LongestConsecutiveSequence\bin\Debug\net8.0\LeetCode128.LongestConsecutiveSequence.exe
+C:\C#\LeetCode\LeetCode128.LongestConsecutiveSequence\LeetCode128.LongestConsecutiveSequence\bin\Debug\net8.0\LeetCode128.LongestConsecutiveSequence.deps.json
+C:\C#\LeetCode\LeetCode128.LongestConsecutiveSequence\LeetCode128.LongestConsecutiveSequence\bin\Debug\net8.0\LeetCode128.LongestConsecutiveSequence.runtimeconfig.json
+C:\C#\LeetCode\LeetCode128.LongestConsecutiveSequence\LeetCode128.LongestConsecutiveSequence\bin\Debug\net8.0\LeetCode128.LongestConsecutiveSequence.dll
+C:\C#\LeetCode\LeetCode128.LongestConsecutiveSequence\LeetCode128.LongestConsecutiveSequence\bin\Debug\net8.0\LeetCode128.LongestConsecutiveSequence.pdb
+C:\C#\LeetCode\LeetCode128.LongestConsecutiveSequence\LeetCode128.LongestConsecutiveSequence\obj\Debug\net8.0\LeetCode128.LongestConsecutiveSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LeetCode\LeetCode128.LongestConsecutiveSequence\LeetCode128.LongestConsecutiveSequence\obj\Debug\net8.0\LeetCode128.LongestConsecutiveSequence.AssemblyInfoInputs.cache
+C:\C#\LeetCode\LeetCode128.LongestConsecutiveSequence\LeetCode128.LongestConsecutiveSequence\obj\Debug\net8.0\LeetCode128.LongestConsecutiveSequence.AssemblyInfo.cs
+C:\C#\LeetCode\LeetCode128.LongestConsecutiveSequence\LeetCode128.LongestConsecutiveSequence\obj\Debug\net8.0\LeetCode128.LongestConsecutiveSequence.csproj.CoreCompileInputs.cache
+C:\C#\LeetCode\LeetCode128.LongestConsecutiveSequence\LeetCode128.LongestConsecutiveSequence\obj\Debug\net8.0\LeetCode128.LongestConsecutiveSequence.dll
+C:\C#\LeetCode\LeetCode128.LongestConsecutiveSequence\LeetCode128.LongestConsecutiveSequence\obj\Debug\net8.0\refint\LeetCode128.LongestConsecutiveSequence.dll
+C:\C#\LeetCode\LeetCode128.LongestConsecutiveSequence\LeetCode128.LongestConsecutiveSequence\obj\Debug\net8.0\LeetCode128.LongestConsecutiveSequence.pdb
+C:\C#\LeetCode\LeetCode128.LongestConsecutiveSequence\LeetCode128.LongestConsecutiveSequence\obj\Debug\net8.0\LeetCode128.LongestConsecutiveSequence.genruntimeconfig.cache
+C:\C#\LeetCode\LeetCode128.LongestConsecutiveSequence\LeetCode128.LongestConsecutiveSequence\obj\Debug\net8.0\ref\LeetCode128.LongestConsecutiveSequence.dll
